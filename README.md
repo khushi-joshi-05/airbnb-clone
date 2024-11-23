@@ -1,5 +1,5 @@
 
-# nextjs-airbnb-clone
+# airbnb-clone
 
 # App Screenshots
 
